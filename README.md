@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋. I'm Tania, a front end software developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetchen9)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetchen9&layout=compact)
 <!--
 **tetchen9/tetchen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
