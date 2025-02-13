@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetchen9&layout=compact)
 
-## Favorite Tech
+## Technologies and tools
 <div>
 
 <a href="https://react.dev/">
